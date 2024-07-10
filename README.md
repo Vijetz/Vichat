@@ -1,6 +1,6 @@
 # ViChat
 
-![ViChat Logo](path/to/logo.png)
+![ViChat Logo](static/red_logo_vi.png)
 
 ## Overview
 
