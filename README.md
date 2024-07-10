@@ -1,6 +1,6 @@
 # ViChat
 
-![ViChat Logo](static/red_logo_vi.png)
+![ViChat Logo](static/red_logo_vi_small.png)
 
 ## Overview
 
