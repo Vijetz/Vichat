@@ -6,8 +6,7 @@
 
 ViChat is a chat application designed for group conversations. It leverages modern web technologies like Socket.IO, WebSockets, HTML, CSS, JavaScript, and Node.js to provide a seamless real-time messaging experience directly in your browser.
 
-![Screenshot](static/Screensort(314).png)
-
+![Screenshot](static/"Screenshot (314).png")
 ## Features
 
 - **Real-time Messaging**: Instant communication with minimal latency.
